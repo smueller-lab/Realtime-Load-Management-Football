@@ -1,0 +1,5 @@
+# DB credentials
+
+DOCKER_IP = '86.119.35.243'
+REDIS_PW = 'abc123!'
+REDIS_PORT = 6379
